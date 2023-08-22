@@ -1,7 +1,7 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git
 
-Nama : Trisna Diah Ayu wulandari
+Nama : Trisna Diah Ayu 
 
 NIM : 22/505883/SV/21979
 
